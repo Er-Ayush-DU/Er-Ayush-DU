@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Tiwari</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fscreen-monitor-closeup-26tn33aiTi1jkl6H6&psig=AOvVaw0gN-mAv7xE9JwIW5IRDJcK&ust=1732091060845000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDWuN3854kDFQAAAAAdAAAAABAh"> -->
+<img align="right" alt="coding" width="800" height="400" src="giphy.webp">
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-ayush-du" alt="er-ayush-du" /></a> </p>
 
